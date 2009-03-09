@@ -1,0 +1,6 @@
+[submodule "lib/shoes_selection_box"]
+	path = lib/shoes_selection_box
+	url = git://github.com/koudelka/shoes_selection_box.git
+[submodule "lib/shoes_shared"]
+	path = lib/shoes_shared
+	url = git://github.com/koudelka/shoes_shared.git
